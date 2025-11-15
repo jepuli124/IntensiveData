@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "6918a99fc4fbd7224d30496d"
+  },
+  "name": "flu",
+  "test": "sneezing"
+},
+{
+  "_id": {
+    "$oid": "6918a99fc4fbd7224d30496e"
+  },
+  "name": "cancer",
+  "test": "dangerous"
+},
+{
+  "_id": {
+    "$oid": "6918a99fc4fbd7224d30496f"
+  },
+  "name": "influensa",
+  "test": "spreads fast"
+},
+{
+  "_id": {
+    "$oid": "6918a99fc4fbd7224d304970"
+  },
+  "name": "tubeculose",
+  "test": "watching too much youtube"
+},
+{
+  "_id": {
+    "$oid": "6918a99fc4fbd7224d304971"
+  },
+  "name": "diabetes",
+  "test": "sugar diseases"
+},
+{
+  "_id": {
+    "$oid": "6918ac97c4fbd7224d3049b2"
+  },
+  "name": "Hypertension",
+  "test": "Blood Pressure"
+},
+{
+  "_id": {
+    "$oid": "6918ac97c4fbd7224d3049b3"
+  },
+  "name": "Lyme Disease",
+  "test": "Antibody Test"
+},
+{
+  "_id": {
+    "$oid": "6918ac97c4fbd7224d3049b4"
+  },
+  "name": "Hepatitis B",
+  "test": "Antigen Test"
+},
+{
+  "_id": {
+    "$oid": "6918ac97c4fbd7224d3049b5"
+  },
+  "name": "COVID-19",
+  "test": "PCR Test"
+},
+{
+  "_id": {
+    "$oid": "6918ac97c4fbd7224d3049b6"
+  },
+  "name": "Measles",
+  "test": "IgM Test"
+}]

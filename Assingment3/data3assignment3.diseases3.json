@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "6918a99fc4fbd7224d30496d"
+  },
+  "name": "flu",
+  "test": "sneezing"
+},
+{
+  "_id": {
+    "$oid": "6918a99fc4fbd7224d30496e"
+  },
+  "name": "cancer",
+  "test": "dangerous"
+},
+{
+  "_id": {
+    "$oid": "6918a99fc4fbd7224d30496f"
+  },
+  "name": "influensa",
+  "test": "spreads fast"
+},
+{
+  "_id": {
+    "$oid": "6918a99fc4fbd7224d304970"
+  },
+  "name": "tubeculose",
+  "test": "watching too much youtube"
+},
+{
+  "_id": {
+    "$oid": "6918a99fc4fbd7224d304971"
+  },
+  "name": "diabetes",
+  "test": "sugar diseases"
+},
+{
+  "_id": {
+    "$oid": "6918acb1c4fbd7224d3049b9"
+  },
+  "name": "Zika Virus",
+  "test": "NAT Test"
+},
+{
+  "_id": {
+    "$oid": "6918acb1c4fbd7224d3049ba"
+  },
+  "name": "Dengue Fever",
+  "test": "NS1 Test"
+},
+{
+  "_id": {
+    "$oid": "6918acb1c4fbd7224d3049bb"
+  },
+  "name": "Asthma",
+  "test": "Spirometry"
+},
+{
+  "_id": {
+    "$oid": "6918acb1c4fbd7224d3049bc"
+  },
+  "name": "Arthritis",
+  "test": "Rheumatoid Factor"
+},
+{
+  "_id": {
+    "$oid": "6918acb1c4fbd7224d3049bd"
+  },
+  "name": "Anemia",
+  "test": "Complete Blood Count"
+}]
